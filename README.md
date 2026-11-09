@@ -1,4 +1,4 @@
-# gasfeepredictor-com
+# Gas Fee Predictor
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,38 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gasfeepredictor-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gasfeepredictor.com/
+Gas Fee Predictor is a free Ethereum gas utility that provides live mainnet and Layer‑2 gas prices, forecasts fee trends, and offers alerts without requiring sign‑up or API keys. It helps users find cheaper transaction windows, compare L2 costs, and embed gas data via a lightweight widget. The service tracks gas movements minute‑by‑minute and presents them in an easy‑to‑understand dashboard and API.
+
+**Areas:** Company · Ethereum · Gas · API · Utility · Free
+
+## Gas Fee Predictor on APIs.io
+
+Everything profiled for Gas Fee Predictor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gasfeepredictor-com/](https://apis.io/providers/gasfeepredictor-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- Gas Fee Predictor API — Free public JSON API for live Ethereum mainnet + Layer 2 gas fees, with active failover across multiple public RPCs, pattern-based 24h forecasts, and full…
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gasfeepredictor.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gasfeepredictor-com/](https://apis.io/providers/gasfeepredictor-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gas Fee Predictor: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gasfeepredictor-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
