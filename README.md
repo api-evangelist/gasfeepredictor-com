@@ -72,21 +72,94 @@ Gas Fee Predictor is a free Ethereum gas utility that provides live mainnet and 
 
 Everything profiled for Gas Fee Predictor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gasfeepredictor-com/](https://apis.io/providers/gasfeepredictor-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (1)
+### APIs (3)
 
-- Gas Fee Predictor API — Free public JSON API for live Ethereum mainnet + Layer 2 gas fees, with active failover across multiple public RPCs, pattern-based 24h forecasts, and full…
+- [Gas Fee Predictor L2 API](https://apis.io/apis/gasfeepredictor-com/gasfeepredictor-com-l2-api/) — Layer 2 (Arbitrum, Optimism, Base, Polygon) gas data
+- [Gas Fee Predictor Mainnet API](https://apis.io/apis/gasfeepredictor-com/gasfeepredictor-com-mainnet-api/) — Ethereum mainnet gas data
+- [Gas Fee Predictor Price API](https://apis.io/apis/gasfeepredictor-com/gasfeepredictor-com-price-api/) — ETH/USD price data
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Gas Fee Predictor Agentic Access](https://apis.io/agentic-access/gasfeepredictor-com/gasfeepredictor-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Gas Fee Predictor API Rules](https://apis.io/rules/gasfeepredictor-com/gasfeepredictor-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gas Fee Predictor Domain Security](https://apis.io/security/gasfeepredictor-com/gasfeepredictor-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gas Fee Predictor Plans Pricing](https://apis.io/plans/gasfeepredictor-com/gasfeepredictor-com-plans-pricing/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://gasfeepredictor.com/)
+- [API reference](https://gasfeepredictor.com/docs/api)
+- [Pricing](https://gasfeepredictor.com/pricing)
+- [Blog](https://gasfeepredictor.com/blog)
+- [Terms of service](https://gasfeepredictor.com/terms)
+- [Privacy policy](https://gasfeepredictor.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/gasfeepredictor-com/](https://apis.io/providers/gasfeepredictor-com/).
+**Kin Score 42.8** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 41.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 63.7 |
+
+**Agent readiness 24.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.6** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gasfeepredictor-com/](https://apis.io/providers/gasfeepredictor-com/).
 
 ## How this profile is made
 
